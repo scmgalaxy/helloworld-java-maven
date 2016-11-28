@@ -20,13 +20,13 @@
   <repository>
   <id>deployment</id>
   <name>Internal Releases</name>
-  <url>http://192.168.56.1:8081/repository/repo14-snap/</url>
+  <url>http://localhost:8081/nexus/content/repositories/releases/</url>
   </repository>
  
   <snapshotRepository>
 <id>deployment</id>
 <name>Internal Releases</name>
-<url>http://192.168.56.1:8081/repository/repo14-snap/</url>
+<url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
 </snapshotRepository>
 </distributionManagement>
 
