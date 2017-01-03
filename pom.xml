@@ -19,7 +19,7 @@
   <distributionManagement>
   <repository>
   <id>deployment</id>
-  <name>Internal Releases</name>
+  <name>Internal Releases1</name>
   <url>http://54.171.181.80:8081/nexus/content/repositories/cts-hosted-release/</url>
   </repository>
  
