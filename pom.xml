@@ -37,13 +37,13 @@
   <repository>
   <id>deployment</id>
   <name>Internal Releases1</name>
-  <url>http://54.171.140.167:8081/nexus/content/repositories/releases/</url>
+  <url>http://54.171.181.49:8088/nexus/content/repositories/hsbc-raj-rel/</url>
   </repository>
  
   <snapshotRepository>
 <id>deployment</id>
 <name>Internal Releases</name>
-<url>http://54.171.140.167:8081/nexus/content/repositories/snapshots/</url>
+<url>http://54.171.181.49:8088/nexus/content/repositories/hsbc-raj-snap/</url>
 </snapshotRepository>
 </distributionManagement>
 
