@@ -33,17 +33,17 @@
 	</plugins>
 	</build>
   
-  <distributionManagement>
+<distributionManagement>
   <repository>
-  <id>deployment</id>
+  <id>deploymentRepo</id>
   <name>Internal Releases1</name>
-  <url>http://54.171.181.49:8088/nexus/content/repositories/hsbc-raj-rel/</url>
+<url>http://54.202.133.144:8081/nexus/content/repositories/cts/</url>
   </repository>
  
   <snapshotRepository>
-<id>deployment</id>
+<id>deploymentRepo</id>
 <name>Internal Releases</name>
-<url>http://54.171.181.49:8088/nexus/content/repositories/hsbc-raj-snap/</url>
+<url>http://54.202.133.144:8081/nexus/content/repositories/ctssnap/</url>
 </snapshotRepository>
 </distributionManagement>
 
