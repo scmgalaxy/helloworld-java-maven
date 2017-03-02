@@ -37,13 +37,13 @@
   <repository>
   <id>deploymentRepo</id>
   <name>Internal Releases1</name>
-<url>http://54.202.133.144:8081/nexus/content/repositories/cts/</url>
+<url>http://35.154.157.16:8081/nexus/content/repositories/releases/</url>
   </repository>
  
   <snapshotRepository>
 <id>deploymentRepo</id>
 <name>Internal Releases</name>
-<url>http://54.202.133.144:8081/nexus/content/repositories/ctssnap/</url>
+<url>http://35.154.157.16:8081/nexus/content/repositories/snapshots/</url>
 </snapshotRepository>
 </distributionManagement>
 
