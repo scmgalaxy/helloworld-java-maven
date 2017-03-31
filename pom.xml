@@ -37,13 +37,13 @@
   <repository>
   <id>deployment</id>
   <name>Internal Releases1</name>
-<url>http://35.154.135.66:8081/nexus/content/repositories/training/</url>
+<url>http://35.154.185.4:8081/nexus/content/repositories/mph/</url>
   </repository>
  
   <snapshotRepository>
 <id>deployment</id>
 <name>Internal Releases</name>
-<url>http://35.154.135.66:8081/nexus/content/repositories/training-proxy/</url>
+<url>http://35.154.185.4:8081/nexus/content/repositories/mphsnap/</url>
 </snapshotRepository>
 </distributionManagement>
 
