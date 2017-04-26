@@ -34,18 +34,17 @@
 	</build>
   
  <distributionManagement>
-	<repository>
-		<id>deployment</id>
-		<name>Internal Releases</name>
-		<url>http://52.66.24.187:8081/repository/well-hosted-rel/</url>
-	</repository>
+  <repository>
+  <id>deployment</id>
+  <name>Internal Releases</name>
+  <url>http://192.168.2.193:8081/repository/well-hosted-rel/</url>
+  </repository>
  
-	<snapshotRepository>
-		<id>deployment</id>
-		<name>Internal Releases</name>
-		<url>http://52.66.24.187:8081/repository/well-hosted-snap/</url>
-	</snapshotRepository>
-
+  <snapshotRepository>
+<id>deployment</id>
+<name>Internal Releases</name>
+<url>http://192.168.2.193:8081/repository/well-hosted-snap/</url>
+</snapshotRepository>
 </distributionManagement>
 
 
