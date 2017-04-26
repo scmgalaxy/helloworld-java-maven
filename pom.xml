@@ -33,18 +33,20 @@
 	</plugins>
 	</build>
   
-<distributionManagement>
-  <repository>
-  <id>deployment</id>
-  <name>Internal Releases1</name>
-<url>http://35.154.116.147:8081/nexus/content/repositories/releases/</url>
-  </repository>
+ <distributionManagement>
+	<repository>
+		<id>deployment</id>
+		<name>Internal Releases</name>
+		<url>http://52.66.24.187:8081/repository/well-hosted-rel/</url>
+	</repository>
  
-  <snapshotRepository>
-<id>deployment</id>
-<name>Internal Releases</name>
-<url>http://35.154.116.147:8081/nexus/content/repositories/snapshots/</url>
-</snapshotRepository>
+	<snapshotRepository>
+		<id>deployment</id>
+		<name>Internal Releases</name>
+		<url>http://52.66.24.187:8081/repository/well-hosted-snap/</url>
+	</snapshotRepository>
+
 </distributionManagement>
+
 
 </project>
