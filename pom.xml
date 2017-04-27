@@ -37,13 +37,13 @@
 	<repository>
 		<id>deployment</id>
 		<name>Internal Releases</name>
-		<url>http://52.66.24.187:8081/repository/well-hosted-rel/</url>
+		<url>http://35.154.242.30:8081/nexus/content/repositories/releases/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>deployment</id>
 		<name>Internal Releases</name>
-		<url>http://52.66.24.187:8081/repository/well-hosted-snap/</url>
+		<url>http://35.154.242.30:8081/nexus/content/repositories/snapshots/</url>
 	</snapshotRepository>
 
 </distributionManagement>
