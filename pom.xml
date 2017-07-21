@@ -35,13 +35,13 @@
   
  <distributionManagement>
 	<repository>
-		<id>deployment</id>
+		<id>tata</id>
 		<name>Internal Releases</name>
 		<url>http://35.154.200.123:8081/repository/maven-releases/</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>deployment</id>
+		<id>tata</id>
 		<name>Internal Releases</name>
 		<url>http://35.154.200.123:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
