@@ -36,14 +36,14 @@
  <distributionManagement>
 	<repository>
 		<id>tata</id>
-		<name>Internal Releases</name>
-		<url>http://13.126.132.189:8081/repository/release/</url>
+		<name>java-maven-releases</name>
+		<url>http://13.126.60.221:8081/repository/jenkins-maven-releases/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>tata</id>
-		<name>Internal Releases</name>
-		<url>http://13.126.132.189:8081/repository/snapshot/</url>
+		<name>java-maven-snapshots</name>
+		<url>http://13.126.60.221:8081/repository/jenkins-maven-snapshots/</url>
 	</snapshotRepository>
 
 </distributionManagement>
