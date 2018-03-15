@@ -35,11 +35,12 @@
   
 <distributionManagement>
     <repository>
-        <id>ecbbfec74f31</id>
-        <name>ecbbfec74f31-releases</name>
-        <url>http://13.127.169.155:8090/artifactory/ext-release-local</url>
+        <id>4df46e30af4e</id>
+        <name>4df46e30af4e-releases</name>
+        <url>http://13.126.215.67:8090/artifactory/ext-release-local</url>
     </repository>
 </distributionManagement>
+
 
 
 
