@@ -1,4 +1,7 @@
- <distributionManagement>
+
+# ========================NEXUS==============================
+
+<distributionManagement>
 	<repository>
 		<id>tata</id>
 		<name>Internal Releases</name>
@@ -12,3 +15,14 @@
 	</snapshotRepository>
 
 </distributionManagement>
+
+
+===============ARTIFACTORY=================
+<distributionManagement>
+    <repository>
+        <id>4df46e30af4e</id>
+        <name>4df46e30af4e-releases</name>
+        <url>http://13.126.215.67:8090/artifactory/ext-release-local</url>
+    </repository>
+</distributionManagement>
+
