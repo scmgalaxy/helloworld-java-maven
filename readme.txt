@@ -19,10 +19,23 @@
 
 ===============ARTIFACTORY=================
 <distributionManagement>
-    <repository>
-        <id>4df46e30af4e</id>
-        <name>4df46e30af4e-releases</name>
-        <url>http://13.126.215.67:8090/artifactory/ext-release-local</url>
-    </repository>
+	<repository>
+		<id>rajesh</id>
+		<name>Internal Releases</name>
+		<url>http://13.127.94.210:8081/artifactory/list/rajesh-release/</url>
+	</repository>
+ 
+	<snapshotRepository>
+		<id>rajesh</id>
+		<name>Internal Releases</name>
+		<url>http://13.127.94.210:8081/artifactory/list/rajesh-snapshot/</url>
+	</snapshotRepository>
+
 </distributionManagement>
 
+=====================SETTING.XML=================================
+   <server>
+		<id>rajesh</id>
+		<username>rajesh-user</username>
+		<password>rajesh-user123</password>
+</server>
