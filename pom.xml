@@ -39,11 +39,18 @@
 	</build>
   
 <distributionManagement>
-    <repository>
-        <id>4df46e30af4e</id>
-        <name>4df46e30af4e-releases</name>
-        <url>http://13.127.229.164:8081/artifactory/list/jenkins/</url>
-    </repository>
+   <repository>
+    <id>GAMEOFLIFE</id>
+     <url>
+          http://18.216.145.93:8081/nexus/content/repositories/GAMEOFLIFE/
+     </url>
+   </repository>
+    <snapshotRepository>	
+        <id>Releases</id>
+    <url>
+       http://18.216.145.93:8081/nexus/content/repositories/Releases/
+  </url>
+    </snapshotRepository>
 </distributionManagement>
 
 
