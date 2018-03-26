@@ -40,9 +40,9 @@
   
 <distributionManagement>
     <repository>
-        <id>4df46e30af4e</id>
+        <id>3dplm</id>
         <name>4df46e30af4e-releases</name>
-        <url>http://13.127.229.164:8081/artifactory/list/jenkins/</url>
+        <url>http://13.126.251.126:8080/artifactory/simple/dplm/</url>
     </repository>
 </distributionManagement>
 
