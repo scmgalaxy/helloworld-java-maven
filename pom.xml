@@ -42,12 +42,12 @@
     <repository>
         <id>rajesh</id>
         <name>rajesh-releases</name>
-        <url>http://13.232.2.248:8080/artifactory/rajesh</url>
+        <url>http://13.232.2.248:8080/artifactory/nokia</url>
     </repository>
     <snapshotRepository>
         <id>rajesh</id>
         <name>rajesh-snapshots</name>
-        <url>http://13.232.2.248:8080/artifactory/rajesh</url>
+        <url>http://13.232.2.248:8080/artifactory/nokia</url>
     </snapshotRepository>
 </distributionManagement>
 
