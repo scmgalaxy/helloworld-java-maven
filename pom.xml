@@ -40,14 +40,14 @@
   
 <distributionManagement>
     <repository>
-        <id>rajesh</id>
-        <name>rajesh-releases</name>
-        <url>http://13.232.51.65:8085/artifactory/nokia</url>
+        <id>bd7e4d6b271d</id>
+        <name>bd7e4d6b271d-releases</name>
+        <url>http://13.127.243.158:8080/artifactory/verizon</url>
     </repository>
     <snapshotRepository>
-        <id>rajesh</id>
-        <name>rajesh-snapshots</name>
-        <url>http://13.232.51.65:8085/artifactory/nokia</url>
+        <id>bd7e4d6b271d</id>
+        <name>bd7e4d6b271d-snapshots</name>
+        <url>http://13.127.243.158:8080/artifactory/verizon</url>
     </snapshotRepository>
 </distributionManagement>
 
