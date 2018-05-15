@@ -40,14 +40,14 @@
   
 <distributionManagement>
     <repository>
-        <id>bd7e4d6b271d</id>
+        <id>cts-nexus</id>
         <name>bd7e4d6b271d-releases</name>
-        <url>http://13.127.243.158:8080/artifactory/verizon</url>
+        <url>http://13.232.21.125:8081/nexus/content/repositories/cts-release/</url>
     </repository>
     <snapshotRepository>
-        <id>bd7e4d6b271d</id>
+        <id>cts-nexus</id>
         <name>bd7e4d6b271d-snapshots</name>
-        <url>http://13.127.243.158:8080/artifactory/verizon</url>
+        <url>http://13.232.21.125:8081/nexus/content/repositories/cts-snapshot/</url>
     </snapshotRepository>
 </distributionManagement>
 
