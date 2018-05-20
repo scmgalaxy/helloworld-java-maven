@@ -42,7 +42,7 @@
     <repository>
         <id>cts-nexus</id>
         <name>bd7e4d6b271d-releases</name>
-        <url>http://13.232.21.125:8081/nexus/content/repositories/cts-release/</url>
+        <url>http://13.127.1.164:8081/nexus/content/repositories/weekend/</url>
     </repository>
     <snapshotRepository>
         <id>cts-nexus</id>
