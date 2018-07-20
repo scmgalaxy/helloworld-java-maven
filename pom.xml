@@ -37,21 +37,20 @@
 		</plugin>
 	</plugins>
 	</build>
-  
+
+
 <distributionManagement>
     <repository>
-        <id>00321bca3728</id>
-        <name>00321bca3728-releases</name>
-        <url>http://13.126.184.229:8085/artifactory/verizon</url>
+        <id>36df576f8e0d</id>
+        <name>36df576f8e0d-releases</name>
+        <url>http://10.76.118.66:8085/artifactory/testrepo</url>
     </repository>
     <snapshotRepository>
-        <id>00321bca3728</id>
-        <name>00321bca3728-snapshots</name>
-        <url>http://13.126.184.229:8085/artifactory/verizon</url>
+        <id>36df576f8e0d</id>
+        <name>36df576f8e0d-snapshots</name>
+        <url>http://10.76.118.66:8085/artifactory/testrepo</url>
     </snapshotRepository>
 </distributionManagement>
-
-
 
 
 
