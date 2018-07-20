@@ -51,7 +51,18 @@
     </snapshotRepository>
 </distributionManagement>
 
-
+<distributionManagement>
+    <repository>
+        <id>36df576f8e0d</id>
+        <name>36df576f8e0d-releases</name>
+        <url>http://10.76.118.66:8085/artifactory/testrepo</url>
+    </repository>
+    <snapshotRepository>
+        <id>36df576f8e0d</id>
+        <name>36df576f8e0d-snapshots</name>
+        <url>http://10.76.118.66:8085/artifactory/testrepo</url>
+    </snapshotRepository>
+</distributionManagement>
 
 
 
