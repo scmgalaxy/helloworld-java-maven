@@ -42,7 +42,7 @@
     <repository>
         <id>00321bca3728</id>
         <name>00321bca3728-releases</name>
-        <url>http://13.126.184.229:8085/artifactory/verizon</url>
+        <url>http://52.66.174.211:8081/nexus/content/repositories/demo/</url>
     </repository>
     <snapshotRepository>
         <id>00321bca3728</id>
