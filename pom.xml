@@ -2,9 +2,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.scmgalaxy.mavensample</groupId>
-  <artifactId>my-maven</artifactId>
+  <artifactId>ramcox</artifactId>
   <packaging>jar</packaging>
-  <version>4.0.0</version>
+  <version>5.0.0</version>
   <name>my-maven</name>
   <url>http://maven.apache.org</url>
 	
@@ -42,7 +42,7 @@
     <repository>
         <id>00321bca3728</id>
         <name>00321bca3728-releases</name>
-        <url>http://52.66.174.211:8081/nexus/content/repositories/demo/</url>
+        <url>http://13.232.255.153:8081/nexus/content/repositories/ramco/</url>
     </repository>
     <snapshotRepository>
         <id>00321bca3728</id>
