@@ -42,7 +42,7 @@
     <repository>
         <id>00321bca3728</id>
         <name>00321bca3728-releases</name>
-        <url>http://13.232.255.153:8081/nexus/content/repositories/ramco/</url>
+        <url>http://13.232.139.216:8081/nexus/content/repositories/ramco/</url>
     </repository>
     <snapshotRepository>
         <id>00321bca3728</id>
