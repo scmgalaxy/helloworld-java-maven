@@ -40,14 +40,14 @@
   
 <distributionManagement>
     <repository>
-        <id>00321bca3728</id>
+        <id>sunday</id>
         <name>00321bca3728-releases</name>
-        <url>http://13.232.139.216:8081/nexus/content/repositories/ramco/</url>
+        <url>http://13.232.83.212:8081/repository/hosted/</url>
     </repository>
     <snapshotRepository>
-        <id>00321bca3728</id>
+        <id>sunday</id>
         <name>00321bca3728-snapshots</name>
-        <url>http://13.126.184.229:8085/artifactory/verizon</url>
+        <url>http://13.232.83.212:8081/repository/snapshot/</url>
     </snapshotRepository>
 </distributionManagement>
 
