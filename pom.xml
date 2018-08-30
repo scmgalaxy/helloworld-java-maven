@@ -40,16 +40,17 @@
   
 <distributionManagement>
     <repository>
-        <id>sunday</id>
-        <name>00321bca3728-releases</name>
-        <url>http://13.232.83.212:8081/repository/hosted/</url>
+        <id>bf25c3ac0cd4</id>
+        <name>bf25c3ac0cd4-releases</name>
+        <url>http://13.233.28.211:8085/artifactory/nokia</url>
     </repository>
     <snapshotRepository>
-        <id>sunday</id>
-        <name>00321bca3728-snapshots</name>
-        <url>http://13.232.83.212:8081/repository/snapshot/</url>
+        <id>bf25c3ac0cd4</id>
+        <name>bf25c3ac0cd4-snapshots</name>
+        <url>http://13.233.28.211:8085/artifactory/nokia</url>
     </snapshotRepository>
 </distributionManagement>
+
 
 
 
