@@ -39,16 +39,18 @@
 	</build>
   
 <distributionManagement>
-    <repository>
-        <id>31c6be1bed9e</id>
-        <name>31c6be1bed9e-releases</name>
-        <url>http://52.66.212.105:8085/artifactory/nokia</url>
-    </repository>
-    <snapshotRepository>
-        <id>31c6be1bed9e</id>
-        <name>31c6be1bed9e-snapshots</name>
-        <url>http://52.66.212.105:8085/artifactory/nokia</url>
-    </snapshotRepository>
+	<repository>
+		<id>tata</id>
+		<name>Internal Releases</name>
+		<url>http://13.233.19.201:8081/repository/yoodlex/</url>
+	</repository>
+ 
+	<snapshotRepository>
+		<id>tata</id>
+		<name>Internal Releases</name>
+		<url>http://13.233.19.201:8081/repository/yoodlex/</url>
+	</snapshotRepository>
+
 </distributionManagement>
 
 
