@@ -4,7 +4,7 @@
   <groupId>com.scmgalaxy.mavensample</groupId>
   <artifactId>yoodle</artifactId>
   <packaging>jar</packaging>
-  <version>5.0.0</version>
+  <version>5.0.0-${RELEASE-TYPE}</version>
   <name>my-maven</name>
   <url>http://maven.apache.org</url>
 	
@@ -16,7 +16,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.1-${RELEASE-TYPE}</version>
+      <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
