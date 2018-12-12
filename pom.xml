@@ -39,18 +39,16 @@
 	</build>
   
 <distributionManagement>
-	<repository>
-		<id>tata</id>
-		<name>Internal Releases</name>
-		<url>http://13.233.19.201:8081/nexus/content/repositories/yoodlex/</url>
-	</repository>
- 
-	<snapshotRepository>
-		<id>tata</id>
-		<name>Internal Releases</name>
-		<url>http://13.233.19.201:8081/nexus/content/repositories/yoodlex/</url>
-	</snapshotRepository>
-
+    <repository>
+        <id>sym</id>
+        <name>ip-172-31-17-110.ap-south-1.compute.internal-releases</name>
+        <url>http://13.233.5.137:8080/artifactory/rajesh</url>
+    </repository>
+    <snapshotRepository>
+        <id>sym</id>
+        <name>ip-172-31-17-110.ap-south-1.compute.internal-snapshots</name>
+        <url>http://13.233.5.137:8080/artifactory/rajesh</url>
+    </snapshotRepository>
 </distributionManagement>
 
 
