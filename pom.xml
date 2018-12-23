@@ -41,13 +41,13 @@
 <distributionManagement>
     <repository>
         <id>sym</id>
-        <name>ip-172-31-17-110.ap-south-1.compute.internal-releases</name>
-        <url>http://13.233.5.137:8080/artifactory/rajesh</url>
+        <name>release softx</name>
+        <url>http://52.66.212.86:8081/repository/rajesh/</url>
     </repository>
     <snapshotRepository>
         <id>sym</id>
-        <name>ip-172-31-17-110.ap-south-1.compute.internal-snapshots</name>
-        <url>http://13.233.5.137:8080/artifactory/rajesh</url>
+        <name>snapshot softx</name>
+        <url>http://52.66.212.86:8081/repository/rajesh/</url>
     </snapshotRepository>
 </distributionManagement>
 
