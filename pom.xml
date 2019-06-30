@@ -42,12 +42,12 @@
     <repository>
         <id>sym</id>
         <name>release softx</name>
-        <url>http://52.66.196.78:8081/repository/all/</url>
+        <url>http://13.126.145.10:8081/repository/devopsschool/</url>
     </repository>
     <snapshotRepository>
         <id>sym</id>
         <name>snapshot softx</name>
-        <url>http://52.66.196.78:8081/repository/all/</url>
+        <url>http://13.126.145.10:8081/repository/devopsschool/</url>
     </snapshotRepository>
 </distributionManagement>
 
