@@ -1,5 +1,5 @@
-This is my fixed for DevOpsSchool.com....Fix for Task
-For any questions - Please email me at DevOps@RajeshKumar.xyz
+This is my fixed for DevOpsSchool.com....Fix for Taskggggg
+For any questions - Please email me at DevOps@RajeshKumar.gxyz
 # ========================NEXUS==============================
 
 <distributionManagement>
