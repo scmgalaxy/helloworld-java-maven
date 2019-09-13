@@ -40,13 +40,13 @@
   
 <distributionManagement>
     <repository>
-        <id>sym</id>
-        <name>release softx</name>
+        <id>deployment/id>
+        <name>Deployment Releases</name>
         <url>http://13.126.145.10:8081/repository/devopsschool/</url>
     </repository>
     <snapshotRepository>
-        <id>sym</id>
-        <name>snapshot softx</name>
+        <id>deployment</id>
+        <name>Deployment Releases</name>
         <url>http://13.126.145.10:8081/repository/devopsschool/</url>
     </snapshotRepository>
 </distributionManagement>
