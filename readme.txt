@@ -1,6 +1,6 @@
 This is my fixed for DevOpsSchool.com....Fix for Taskggggg HON-1
 For any questions - Please email me at DevOps@RajeshKumar.gxyz/
-# this is a fix og sdfljflld fjldsfjdsjfkdl;
+# this isddd a fix og sdfljflld fjldsfjdsjfkdl;
 # ========================NEXUS==============================
 
 <distributionManagement>
